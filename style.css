@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Yakuza;
+  src: url("edosz.ttf");
+}
+
+body {
+  font-family: Yakuza;
+  text-align: center; 
+  color: white;
+  background-color: #750608;
+}
